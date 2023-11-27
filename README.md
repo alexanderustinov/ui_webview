@@ -1,6 +1,11 @@
 # ui_webview
 ```
 git clone --recursive # this;
+# или
+git clone # this
+git submodule init
+git submodule update
 ```
 
-https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=17 with node 20 for pywebview-react-boilerplate
+Игра с react-бойлерплейтом требует установки nodejs (тестировал с 20-й),
+на win нужен VS c нагрузкой разработка классических приложений на C++.
