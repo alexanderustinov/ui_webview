@@ -1,0 +1,6 @@
+[submodule "pywebview-react-boilerplate"]
+	path = pywebview-react-boilerplate
+	url = https://github.com/r0x0r/pywebview-react-boilerplate.git
+[submodule "webview/webview"]
+	path = webview/webview
+	url = https://github.com/webview/webview.git
